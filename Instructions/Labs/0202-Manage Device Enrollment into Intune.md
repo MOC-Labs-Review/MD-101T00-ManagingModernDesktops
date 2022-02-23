@@ -78,7 +78,7 @@ You need to prepare for device management using Microsoft Intune. First of all, 
 
 7.  On the Scope tags page, select **Next**.
 
-8.  On the Assignments page, under Included groups, select **Select Add groups**.
+8.  On the Assignments page, under Included groups, select **Add groups**.
 
 9.  Select **Sales** and then click **Select** and then click **Next**.
 
